@@ -1,0 +1,23 @@
+{
+  "name": "ticketweb",
+  "version": "1.0.0",
+  "description": "ticket web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamesz/TicketWeb.git"
+  },
+  "author": "Hamesz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamesz/TicketWeb/issues"
+  },
+  "homepage": "https://github.com/Hamesz/TicketWeb#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
